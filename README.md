@@ -1,1 +1,1 @@
-GitHub Pages - https://nebeyi.github.io/Possi/
+GitHub Pages - https://frontendcraft-cmd.github.io/Possi/
